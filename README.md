@@ -1,4 +1,4 @@
-# the_pathfinder
+# The Pathfinder
 
 -BotsMove-
 checks if the player is in a certain distance. If true, the bot stops rotating (Rotator script) and moves towards the player with a defined speed.
