@@ -43,6 +43,7 @@ takes the available number of Points of Interest (restaurants, banks, supermarke
 It also checks, if the current number of collected intermediate goals coincide with the target numbers. When true, it makes the collider of the goal column a trigger that can be entered to complete a level.
 
 # -PauseManger-
+helps to pause the game and muffles the sounds while paused.
 
 # -Positioning-
 takes a transform (in our case the goal column) and places it onto the mapbox map by using latitude and longitude coordinates after the initial map load.
